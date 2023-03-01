@@ -1,0 +1,45 @@
+.parent{
+margin: 0px auto;
+max-width: 500px;
+text-align: center;
+max-height: 2000px;
+}
+.chaild1{
+    background-color: rgb(220 220 220 / 20%);
+    margin: 20px auto;
+    width: 50%;
+}
+.chaild2{
+    border: 1px black solid;
+    background-color: rgb(220 220 220 /30%);
+    width: 100%;
+    transition-duration: 0.5s;
+
+}
+th,td{
+    border: 1px black solid; 
+    padding: 10px;
+}
+.chaild2:hover{
+height: 200px;
+}
+.chaild5{
+    margin-top: 20px;
+}
+.chaild3{
+margin-right:216px ;
+background-color:  rgb(62, 119, 119);;
+color: white;
+padding: 5px;
+}
+.chaild4{
+    margin-left: 197px;
+background-color: rgb(62, 119, 119);
+color: white;
+padding: 5px;
+}
+
+button:hover{
+    background-color:rgb(220 220 220 ) ;
+    color: black;
+}
